@@ -1,3 +1,3 @@
 # carousel-images
 
-![demo](https://khanhchitran.github.io/carousel-images/)
+[Demo](https://khanhchitran.github.io/carousel-images/)
